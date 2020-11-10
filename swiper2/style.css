@@ -9,7 +9,7 @@
 }
 /* 全体のスタイル */
 .swiper-container {
-    width: 600px;
+    width: 800px;
     height: 300px;
 }
 
@@ -46,3 +46,42 @@
   background-color: #BEDAE5;
    background-image: url("monster04.png");
 }
+
+.monsters{
+  display: flex
+  flex-direction: column;
+  margin-top: 300px;
+}
+.img_monster{
+  height:150px;
+  width:150px;
+  margin-top:30px;
+}
+
+.mon1{
+   background-color: #EECB27;
+  background-image:url("monster03.png");
+   background-size: 150px;
+}
+
+.mon2{
+  background-color: #E13239;
+  background-image: url("monster09.png");
+  background-size: 150px;
+}
+
+.mon3{
+  background-color: #1F1762;
+  background-image: url("monster10.png");
+   background-size: 150px;
+}
+
+.mon4{
+  background-color: #BEDAE5;
+   background-image: url("monster04.png");
+    background-size: 150px;
+}
+
+
+
+
