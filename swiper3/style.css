@@ -40,13 +40,13 @@
 /* 4の倍数＋1枚目のスライドのスタイル（1枚目、5枚目…） */
 .swiper-slide:nth-child(5n+1) {
   background-color: #EECB27;
-  background-image:url("images/anterope.jpg");
+  background-image:url("../images/anterope.jpg");
   background-size: 100%;
 }
 /* 4の倍数＋2枚目のスライドのスタイル（2枚目、6枚目…） */
 .swiper-slide:nth-child(5n+2) {
   background-color: #E13239;
-  background-image: url("images/manton.JPG");
+  background-image: url("../images/manton.JPG");
   background-size: 100%;
 }
 /* 4の倍数＋3枚目のスライドのスタイル（3枚目、7枚目…） */
